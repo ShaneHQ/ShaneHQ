@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 
-  - [Weather Dashboard]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/ShaneHQ/weather-dashboard-demo))
+  - [Weather Dashboard](https://github.com/ShaneHQ/weather-dashboard-demo)
 
-  - [Project 2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Project 2](#)
 
 <h2>📄 Certifications</h2>
 
