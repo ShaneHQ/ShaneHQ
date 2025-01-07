@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 
-  - [Project 1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Weather Dashboard]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/ShaneHQ/weather-dashboard-demo))
 
   - [Project 2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
