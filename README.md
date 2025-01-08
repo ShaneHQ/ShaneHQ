@@ -5,7 +5,7 @@
 
   - [Weather Dashboard](https://github.com/ShaneHQ/weather-dashboard-demo)
 
-  - [Project 2](#)
+  - [Game Day Notifications](https://github.com/ShaneHQ/game-day-notifications/)
 
 <h2>📄 Certifications</h2>
 
