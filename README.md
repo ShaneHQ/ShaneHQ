@@ -14,6 +14,7 @@
 - [AWS Certified Security - Speciality](https://www.credly.com/badges/892d7c35-101c-44f6-a55d-33fe3323d32a/linked_in_profile)
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/7075630a-9945-440a-9df1-ac0c1ee0a98e)
 - [GitHub Advanced Security](https://www.credly.com/badges/f6b22c3b-cfbb-4b2c-8c02-0a14f991036c/linked_in_profile)
+- [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/d47ef130-6877-4f7f-bc76-a62045c0024d)
 
 <h2> 🤳 Connect with me:</h2>
 
