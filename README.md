@@ -1,4 +1,4 @@
-<h1>Shane Jones! <br/><a href="https://github.com/ShaneHQ">Cloud Engineer</a></h1>
+<h1>Shane Jones! <br/><a href="https://github.com/ShaneHQ">Infrastructure & Security Engineer</a></h1>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
